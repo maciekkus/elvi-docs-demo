@@ -6,7 +6,7 @@ slug: theme-configuration
 ---
 Hello world.
 
-    start this command :)
+    start this command :) bleble
 
 [Link to...](/docs "Title")
 
